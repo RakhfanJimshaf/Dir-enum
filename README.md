@@ -5,7 +5,7 @@ git clone https://github.com/adam-rothschild/Dir-enum.git
 
 cd Dir-enum
 
-chmod 755 dir-enum.sh
+chmod +x dir-enum.sh
 ```
 ## To run
 ```
